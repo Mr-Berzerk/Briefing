@@ -6,7 +6,8 @@ main(int ac,char *av[]) {
   int code;
     
   if (ac!=3) {
-    printf("x64 Modernization courtesy of (Berzerk) MD0001\n"
+    printf("TXB2TXT V2.0.0 Copyright (c) PostTerranMining.co, 2023\n"
+           "x64 Modernization courtesy of (Berzerk) MD0001\n"
            "and PostTerranMining.co October 2023\n"
            "https://postterranmining.co\n"
            "Original Credit:"
